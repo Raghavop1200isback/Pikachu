@@ -160,4 +160,5 @@ def main():
     else:
         print("Please specify either a domain or a username for reconnaissance.")
 
-if __name__
+if __name__ == "__main__":
+    main()
